@@ -1,1 +1,4 @@
-# example.md
+---
+title: "123"
+---
+# exa2mple.md
